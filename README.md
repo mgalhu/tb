@@ -1,3 +1,3 @@
-# tb
+# tb -t
 
 <codeline>
